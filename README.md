@@ -9,7 +9,6 @@ Customer Value	Find the single customer who spent the most money in each country
 Customer Behavior	For every country, determine the single most popular genre by purchases.	Window Function (ROW_NUMBER) & PARTITION BY
 Target Marketing	Find the best-selling artist by revenue, and then the top customers who buy their music.	Nested CTEs & JOIN
 
-Export to Sheets
 🛠️ Technical Skills Demonstrated
 Advanced SQL: Proficiency in writing complex, optimized queries.
 
